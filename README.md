@@ -1,7 +1,5 @@
 # Royal Casino using on chain Randomness of Aptos
 
- 
-
 ## Getting Started
 
 ### Prerequisites
@@ -36,14 +34,10 @@ Make sure you have the following installed:
      ```
      aptos move publish
      ```
-
-
      
 ## Acknowledgment 
 - The Aptos Blockchain community for providing a robust platform for crypto transactions.
 - Frontend design inspired by modern UI/UX principles.
-
-
 
 ## Contact
 For questions or inquiries, please contact [ugendar](mailto:ugendar07@gmail.com) .

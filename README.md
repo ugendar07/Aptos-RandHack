@@ -1,15 +1,19 @@
 # Royal Casino using on chain Randomness of Aptos
 
+
 ## Getting Started
 
+
 ### Prerequisites
+
 
 Make sure you have the following installed:
 
 - [Python3](https://www..org/)
 - [Move](https://aptos.dev/en/build/smart-contracts/book)
     
-    ```curl -fsSL "https://aptos.dev/scripts/install_cli.py" | python3``` 
+    ```curl -fsSL "https://aptos.dev/scripts/install_cli.py" | python3```
+  
 
  
 ### Installation
@@ -35,9 +39,11 @@ Make sure you have the following installed:
      aptos move publish
      ```
      
+     
 ## Acknowledgment 
 - The Aptos Blockchain community for providing a robust platform for crypto transactions.
 - Frontend design inspired by modern UI/UX principles.
+
 
 ## Contact
 For questions or inquiries, please contact [ugendar](mailto:ugendar07@gmail.com) .

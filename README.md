@@ -1,11 +1,8 @@
 # Royal Casino using on chain Randomness of Aptos
 
-
 ## Getting Started
 
-
 ### Prerequisites
-
 
 Make sure you have the following installed:
 
@@ -15,7 +12,7 @@ Make sure you have the following installed:
     ```curl -fsSL "https://aptos.dev/scripts/install_cli.py" | python3```
   
 
- 
+
 ### Installation
 
 1. Clone the repository:
